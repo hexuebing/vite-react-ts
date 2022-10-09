@@ -1,4 +1,4 @@
 # use degit
 ```
-npx degit hexuebin/vite-react-ts my-project-name
+npx degit hexuebing/vite-react-ts my-project-name
 ```
